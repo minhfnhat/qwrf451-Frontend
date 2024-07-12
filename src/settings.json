@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and style with our revolutionary car. Redefine your journey with cutting-edge technology and unmatched performance.",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and style with our revolutionary car. Redefine your journey with cutting-edge technology and unmatched performance.",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and style with our revolutionary car. Redefine your journey with cutting-edge technology and unmatched performance.",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and style with our revolutionary car. Redefine your journey with cutting-edge technology and unmatched performance.",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and style with our revolutionary car. Redefine your journey with cutting-edge technology and unmatched performance.",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and style with our revolutionary car. Redefine your journey with cutting-edge technology and unmatched performance.",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and style with our revolutionary car. Redefine your journey with cutting-edge technology and unmatched performance.",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and style with our revolutionary car. Redefine your journey with cutting-edge technology and unmatched performance.",
+        "title": "Drive the Future Today"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the pinnacle of innovation and style with our revolutionary car. Redefine your journey with cutting-edge technology and unmatched performance.",
+        "title": "Drive the Future Today"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive the Future Today",
+  "subtitle": "Experience the pinnacle of innovation and style with our revolutionary car. Redefine your journey with cutting-edge technology and unmatched performance."
+}
